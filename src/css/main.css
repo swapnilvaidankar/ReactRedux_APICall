@@ -1,0 +1,24 @@
+body {
+  font-family: calibri;
+  font-size: 18px;
+}
+.booklist {
+  padding: 10px;
+  list-style: none;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  margin: 5px;
+}
+.booklist:hover {
+  background-color: orange;
+  cursor: pointer;
+  color: white;
+}
+.main-content {
+  border: 1px solid lightgray;
+  border-radius: 15px;
+  margin-top: 30px;
+}
+h2 {
+  color: orange !important;
+}
